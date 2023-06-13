@@ -1,3 +1,3 @@
 -- app.py --
 def hello():
-    print('Hello World')
+    print('make python great again')
